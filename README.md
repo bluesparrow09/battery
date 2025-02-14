@@ -29,16 +29,16 @@ The following screenshots show the completed power analysis:
 
 
 ## 4. Reflections
-### **How did you determine your "days of use" metric?**
+### **How to determine the "days of use" metric?**
 The days of use were determined based on:
 1. **Total daily power consumption** (mWh), calculated from individual component power usage and duty cycle.
 2. **Battery capacity** (mAh) converted to available energy (mWh) considering regulator efficiency.
 3. **Estimated runtime** = (Battery energy) ÷ (Daily energy consumption).
 
-### **What do you think is the optimum size for the battery in your device?**
+### **What is the optimum size for the battery in my device?**
 The optimal battery size was chosen as **1000mAh (3.7V)**, as it provides sufficient energy for **approximately 3 days of operation**. If extended runtime is required, a **1200mAh or 1500mAh** battery could be used.
 
-### **What hardware/software/cost/effort trade-offs could you make to improve the user experience?**
+### **What hardware/software/cost/effort trade-offs could improve the user experience?**
 Several trade-offs can optimize the system:
 - **Hardware Optimization:**
   - Reduce LED brightness or duty cycle to save energy.
