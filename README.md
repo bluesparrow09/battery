@@ -8,8 +8,8 @@ The following table lists the components used in the project along with their re
 
 | Component | Datasheet Link |
 |-----------|---------------|
-| **Seeed Studio XIAO ESP32C3** | [Datasheet](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) |
-| **TTP223 Capacitive Touch Sensor** | [Datasheet](https://www.electroschematics.com/wp-content/uploads/2013/01/ttp223-datasheet.pdf) |
+| **Seeed Studio XIAO ESP32C3** | [Datasheet](https://files.seeedstudio.com/wiki/XIAO/Seeed-Studio-XIAO-Series-SOM-Datasheet.pdf) |
+| **TTP223 Capacitive Touch Sensor** | [Datasheet](https://files.seeedstudio.com/wiki/Grove-Touch_Sensor/res/TTP223.pdf) |
 | **WS2812 LED** | [Datasheet](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf) |
 | **SSD1351 OLED Display** | [Datasheet](https://cdn-shop.adafruit.com/datasheets/SSD1351-Revision+1.3.pdf) |
 | **Stepper Motor (28BYJ-48)** | [Datasheet](https://www.mouser.com/datasheet/2/758/stepd-01-data-sheet-1143075.pdf) |
